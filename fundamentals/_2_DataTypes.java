@@ -34,7 +34,7 @@ public class _2_DataTypes
     System.out.println("I am an Integer: " + x);
 
     //A Float is another primitive data type. It includes decimals up to 7 places.
-    float y = 5.654321;
+    float y = 5.654321f; //f for float to make it literal (or else the program will think it is a double)
     System.out.println("I am a Float: " + y);
 
     //A Double is another primitive data type. It includes decimals up to 15 places.
