@@ -14,7 +14,8 @@ public class _2_DataTypes
   
   /**
   * Main Method
-  * 
+  * Declares and initializes the six simple data types and prints them out
+  *
   * @param args command-line arguments passed to the method.
   */
   public static void main(String[] args)
