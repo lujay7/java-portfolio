@@ -1,7 +1,7 @@
 /**
 * This class is a template of what a normal Java class should look like.
 * It includes documentation, a constructor, and a main method.
-* Running this 
+* Running this program will output a simple statment "Template Works"
 *
 * @author David Lu
 * @since Oct 8 2025
@@ -14,13 +14,13 @@ public class Template
   public Template(){}
   
   /**
-  * The main method where every Java program starts when ran.
+  * Main Method
   * 
   * @param args command-line arguments passed to the method.
   */
   public static void main(String[] args)
   {
-    //prints Hello World to the console
-    System.out.println("Hello World!");
+    //prints Template Works to the console
+    System.out.println("Template Works");
   }
 }
