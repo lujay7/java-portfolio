@@ -34,11 +34,11 @@ public class _2_DataTypes
     System.out.println("I am an Integer: " + x);
 
     //A Float is another primitive data type. It includes decimals up to 7 places.
-    float y = 5.7654321;
+    float y = 5.654321;
     System.out.println("I am a Float: " + y);
 
     //A Double is another primitive data type. It includes decimals up to 15 places.
-    double z = 5.987654321054321;
+    double z = 5.98765432104321;
     System.out.println("I am a Double: " + z);
 
     //A Character is another primitive data type. It can be any character and is always length one.
