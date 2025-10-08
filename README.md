@@ -1,15 +1,45 @@
-# java-sorting-algorithms
-Implementation of different java sorting algorithms
+# java-portfolio
+A collection of my understanding of basic, intermediate, and advanced Java concepts.
 
-### Basic sorting algorithms
+### Fundamentals and Basics
+1. Syntax
+2. Data Types
+3. Operators
+4. Control Flow
+5. Loops
+6. Packages
+7. Classes
+8. File IO
+9. Try Catch
+### Object Oriented Programming
+1. Methods
+2. Constructors
+3. Encapsulation
+4. Inheritance
+5. Abstraction
+6. Polymorphism
+7. Overriding
+8. Overloading
+### Basic Data Structures
+1. Arrays
+2. ArrayList
+3. HashSet
+4. HashMap
+5. Stack
+6. Queue
+7. Deqeue
+8. Priority Queue
+### Sorting algorithms
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
-### Intermediate sorting algorithms
 4. Merge Sort
 5. Quick Sort
 6. Heap Sort
-### Advanced sorting algorithms
-7. Counting Sort
-8. Radix Sort
-9. Bucket Sort
+### Searching algorithms
+1. Linear Search
+2. Binary Search
+3. Breadths First Search
+4. Depths First Search
+### Multithreading
+### Generics
