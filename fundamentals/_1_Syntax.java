@@ -8,6 +8,11 @@
 public class _1_Syntax
 {
   /**
+  * Default constructor for the _1_Syntax class
+  */
+  public _1_Syntax(){}
+  
+  /**
   * The main method where every Java program starts when ran.
   * 
   * @param args command-line arguments passed to the method.
