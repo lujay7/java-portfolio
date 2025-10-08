@@ -5,7 +5,7 @@
 *
 * @author David Lu
 */
-public class HelloWorld
+public class _1_Syntax
 {
   /**
   * The main method where every Java program starts when ran.
