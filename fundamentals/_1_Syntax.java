@@ -4,6 +4,7 @@
 * This class shows how to declare a class, the main method, and output text.
 *
 * @author David Lu
+* @since Oct 08 2025
 */
 public class _1_Syntax
 {
