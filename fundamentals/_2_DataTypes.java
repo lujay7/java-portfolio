@@ -50,6 +50,6 @@ public class _2_DataTypes
     //A Boolean is another primitive data type. It is always a true or false statement.
     boolean isFull = false;
     boolean isRaining = true;
-    System.out.println("We are Booleans: isFull + " " + isRaining);
+    System.out.println("We are Booleans:" isFull + " " + isRaining);
   }
 }
