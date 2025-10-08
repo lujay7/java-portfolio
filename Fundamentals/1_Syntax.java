@@ -1,7 +1,20 @@
 /**
-* This class demonstrates a basic hello world program.
-* It shows how to create a class, define the main method, and output text with a print statment.
+* This class is a simple program to demonstrate basic syntax of Java.
+* It prints a "Hello World!" statement.
+* This class shows how to declare a class, the main method, and output text.
 *
 * @author David Lu
 */
-public class HelloWorld{} 
+public class HelloWorld
+{
+  /**
+  * The main method where every Java program starts when ran.
+  * 
+  * @param args command-line arguments passed to the method.
+  */
+  public static void main(String[] args)
+  {
+    //prints Hello World to the console
+    System.out.println("Hello World!");
+  }
+}
