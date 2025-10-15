@@ -32,8 +32,9 @@ public class _7_FileIO
     String name = scanner.nextLine();
     System.out.println();
     System.out.println("Your name is: " + name);
-
     System.out.println();
+
+    //Try catch is to try if reading a file will work and it the file does not exists, it returns an error instead of crashing the program.
     try(BufferedReader reader = new BufferedReader(new FileReader("readFile.txt")))
     {
       String line;
