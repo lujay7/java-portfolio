@@ -5,12 +5,12 @@ A collection of my understanding of basic, intermediate, and advanced Java conce
 1. Syntax
 2. Data Types
 3. Operators
-4. Control Flow
-5. Loops
-6. Packages
-7. Classes
-8. File IO
-9. Try Catch
+4. StringOperations
+5. Control Flow
+6. Loops
+7. File IO
+8. Try Catch
+9. Packages
 ### Object Oriented Programming
 1. Methods
 2. Constructors
