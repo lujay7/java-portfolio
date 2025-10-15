@@ -9,7 +9,7 @@
 public class Template
 {
   /**
-  * Most classes should include a default constructor.
+  * Default Constructor.
   */
   public Template(){}
   
