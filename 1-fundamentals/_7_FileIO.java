@@ -42,8 +42,9 @@ public class _7_FileIO
         System.out.println(line);
       }
     }
-    catch(IO Exception e)
+    catch(IOException e)
     {
       System.out.println("Was not able to read File: " + e.getMessage());
+    }
   }
 }
