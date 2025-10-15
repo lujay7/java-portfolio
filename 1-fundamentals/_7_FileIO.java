@@ -5,7 +5,7 @@ import java.io.*;
 /**
 * This class demonstrates how to input and output data in java with user input and files.
 * It contains use of the scanner class, the bufferedreader class, and the filereader class.
-* This class also shows how to use try catch to prevent errors from occuring
+* This class also shows how to use try catch to prevent errors from occuring.
 *
 * @author David Lu
 * @since Oct 15 2025
@@ -26,7 +26,7 @@ public class _7_FileIO
   */
   public static void main(String[] args)
   {
-    //Creates a scanner object to take an input
+    //Creates a scanner object to take an input.
     Scanner scanner = new Scanner(System.in);
     System.out.print("Enter your name: ");
     String name = scanner.nextLine();
