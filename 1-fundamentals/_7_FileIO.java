@@ -28,7 +28,7 @@ public class _7_FileIO
   {
     //Creates a scanner object to take an input
     Scanner scanner = new Scanner(System.in);
-    System.out.print("What is your name?");
+    System.out.print("Enter your name: ");
     String name = scanner.nextLine();
     System.out.println();
     System.out.println("Your name is: " + name);
