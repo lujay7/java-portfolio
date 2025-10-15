@@ -14,7 +14,8 @@ public class Template
   public Template(){}
   
   /**
-  * Main Method
+  * Main Method.
+  * Prints out a statment.
   * 
   * @param args command-line arguments passed to the method.
   */
