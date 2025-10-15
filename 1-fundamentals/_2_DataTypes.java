@@ -13,8 +13,8 @@ public class _2_DataTypes
   public _2_DataTypes(){}
   
   /**
-  * Main Method
-  * Declares and initializes the six simple data types and prints them out
+  * Main Method.
+  * Declares and initializes the six simple data types and prints them out.
   *
   * @param args command-line arguments passed to the method.
   */
@@ -24,17 +24,17 @@ public class _2_DataTypes
     //If an object is declared but not initialized then the value is null.
     
     //A String is an object and is not a primitive type.
-    String s; //declaring an object (s == null)
-    s = "I am a String"; //initializing the object
-    String t = "and i can be concatenated with +"; //both at the same time
+    String s; //declaring an object (s == null).
+    s = "I am a String"; //initializing the object.
+    String t = "and i can be concatenated with +"; //both at the same time.
     System.out.println(s + " " + t);
     
-    //An Integer is a primitive data type. It can be any integer from -2^31 to 2^31 {-2, -1, 0, 1, 2, etc.}
+    //An Integer is a primitive data type. It can be any integer from -2^31 to 2^31 {-2, -1, 0, 1, 2, etc.}.
     int x = 10;
     System.out.println("I am an Integer: " + x);
 
     //A Float is another primitive data type. It includes decimals up to 7 places.
-    float y = 5.654321f; //f for float to make it literal (or else the program will think it is a double)
+    float y = 5.654321f; //f for float to make it literal (or else the program will think it is a double).
     System.out.println("I am a Float: " + y);
 
     //A Double is another primitive data type. It includes decimals up to 15 places.
