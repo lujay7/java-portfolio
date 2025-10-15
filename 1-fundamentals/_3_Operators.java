@@ -8,7 +8,7 @@
 public class _3_Operators
 {
   /**
-  * Most classes should include a default constructor.
+  * Default Constructor.
   */
   public _3_Operators(){}
   
