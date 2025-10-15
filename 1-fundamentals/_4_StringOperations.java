@@ -28,12 +28,12 @@ public class _4_StringOperations
     one.replace("a", "b"); //Replaces all occurances of "a" with "b".
     one.toUpperCase(); //Changes all characters to uppercase.
     System.out.println(one);
-    one.toLowerCase() //Changes all characters to lowercase.
+    one.toLowerCase(); //Changes all characters to lowercase.
     System.out.println(one);
     System.out.println(one.charAt(0)); //Returns the character at index 0.
     System.out.println(one.equals("apple")); //Compares Strings and returns if they are equal or not.
     System.out.println(one.substring(0,2)); //Returns a substring from index 0 to index 2.
-    System.out.println(one.contains("a"); //Returns if the string contains "a" or not.
+    System.out.println(one.contains("a")); //Returns if the string contains "a" or not.
     one.concat(" and orange    "); //Combines the two strings together;
     System.out.println(one);
     one.trim(); //Removes extra spaces from string and trims it.
