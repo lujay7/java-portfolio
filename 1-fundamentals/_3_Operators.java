@@ -34,7 +34,7 @@ public class _3_Operators
     z++; //increases the value of z by 1.
     z--; //decreases the value of z by 1.
     z += 1; //increases the value of z by 1;
-    int mod = x % z //50 mod 3 returns 2.
+    int mod = x % z; //50 mod 3 returns 2.
     System.out.println(mod);
   }
 }
