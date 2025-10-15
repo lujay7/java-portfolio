@@ -9,7 +9,7 @@
 public class _1_Syntax
 {
   /**
-  * Default constructor for the _1_Syntax class
+  * Default constructor for the _1_Syntax class.
   */
   public _1_Syntax(){}
   
