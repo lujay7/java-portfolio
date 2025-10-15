@@ -5,12 +5,12 @@
 * @author David Lu
 * @since Oct 8 2025
 */
-public class Template
+public class _4_StringOperations
 {
   /**
   * Default Constructor.
   */
-  public Template(){}
+  public _4_StringOperations(){}
   
   /**
   * Main Method.
