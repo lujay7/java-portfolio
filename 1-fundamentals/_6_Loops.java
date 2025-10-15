@@ -34,9 +34,9 @@ public class _6_Loops
     }
     int[] hello = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
     //For each loop that iterates through the array.
-    for(int i : hello)
+    for(int num : hello)
     {
-      System.out.println(i);
+      System.out.println(num);
     }
   }
 }
