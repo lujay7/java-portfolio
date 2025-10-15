@@ -37,7 +37,7 @@ public class _7_FileIO
     try(BufferedReader reader = new BufferedReader(new FileReader("readFile.txt")))
     {
       String line;
-      while((line == reader.readLine()) != null)
+      while((line = reader.readLine()) != null)
       {
         System.out.println(line);
       }
