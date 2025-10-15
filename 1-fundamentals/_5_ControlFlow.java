@@ -32,7 +32,7 @@ public class _5_ControlFlow
 	    case 15:
 		    System.out.println("case three ran");
 		    break;
-	    default;
+		default:
 		    System.out.println("default case ran");
     }
     
@@ -44,7 +44,7 @@ public class _5_ControlFlow
     if(value < 10) {System.out.println("value = 10");} //< less than operator
 
     if(value == 10 && number == 5) {System.out.println("both were true");} //&& and operator
-    if(value == 10 || number == 5) {System.out.println("both were true");} //&& and operator
+    if(value == 10 || number == 5) {System.out.println("one or more were true");} //|| or operator
 
     if(value == 5)
     {
