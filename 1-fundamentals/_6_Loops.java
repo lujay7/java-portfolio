@@ -3,7 +3,7 @@
 * It will include for loops, while loops, and for each loops.
 *
 * @author David Lu
-* @since Oct 8 2025
+* @since Oct 15 2025
 */
 public class _6_Loops
 {
@@ -30,7 +30,7 @@ public class _6_Loops
     while(i < 10)
     {
       System.out.println(i);
-      i++
+      i++;
     }
     int[] hello = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
     //For each loop that iterates through the array.
