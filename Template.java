@@ -1,7 +1,7 @@
 /**
 * This class is a template of what a normal Java class should look like.
 * It includes documentation, a constructor, and a main method.
-* Running this program will output a simple statment "Template Works"
+* Running this program will output a simple statment "Template Works".
 *
 * @author David Lu
 * @since Oct 8 2025
@@ -9,7 +9,7 @@
 public class Template
 {
   /**
-  * Most classes should include a default constructor
+  * Most classes should include a default constructor.
   */
   public Template(){}
   
@@ -20,7 +20,7 @@ public class Template
   */
   public static void main(String[] args)
   {
-    //prints Template Works to the console
+    //prints Template Works to the console.
     System.out.println("Template Works");
   }
 }
