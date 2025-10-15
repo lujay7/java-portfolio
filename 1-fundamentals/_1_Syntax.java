@@ -20,7 +20,7 @@ public class _1_Syntax
   */
   public static void main(String[] args)
   {
-    //prints Hello World to the console
+    //prints Hello World to the console.
     System.out.println("Hello World!");
   }
 }
